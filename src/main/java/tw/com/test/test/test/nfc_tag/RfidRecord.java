@@ -1,9 +1,6 @@
 package tw.com.test.test.test.nfc_tag;
 
-import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.util.Log;
-import android.widget.Toast;
 
 /**
  * Created by Huang on 2017/5/20.
